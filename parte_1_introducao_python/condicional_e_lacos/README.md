@@ -138,3 +138,5 @@ print(1 not in lista) # False
 2. Escreva um programa que leia um número inteiro e mostre na tela se ele é positivo ou negativo.
 
 3. Escreva um programa que leia um número inteiro e mostre na tela se ele é par ou ímpar e se é positivo ou negativo.
+
+[Resposta dos exercícios ](https://github.com/cilab-ufersa/introduction_machine_learning/blob/main/parte_1_introducao_python/condicional_e_lacos/res_exercicios_condicional.py)
