@@ -1,0 +1,196 @@
+# Introdução a linguagem Python
+
+Python é uma linguagem de programação de alto nível, interpretada, de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte. Foi lançada por Guido van Rossum em 1991.
+
+Python é uma linguagem de programação interpretada, ou seja, não é necessário compilar o código fonte para que ele possa ser executado. O interpretador Python é capaz de interpretar e executar o código fonte em tempo de execução.
+
+Python é uma linguagem de programação orientada a objetos, ou seja, permite a criação de classes e objetos, além de utilizar herança múltipla.
+
+Python é uma linguagem de programação funcional, ou seja, permite a utilização de funções de primeira classe, funções anônimas e funções de alta ordem.
+
+## Variáveis 
+
+Em Python não é necessário declarar o tipo de uma variável, mas o interpretador irá verificar o tipo da variável em tempo de execução. Além disso, o interpretador irá verificar o tipo de uma variável em tempo de execução, ou seja, se uma variável for declarada como inteiro, mas for atribuído um valor do tipo string, o interpretador irá gerar um erro.
+
+### Declaração de variáveis
+
+Em Python, a declaração de variáveis é feita da seguinte forma:
+
+```python
+nome_da_variavel = valor_da_variavel
+```
+
+### Tipos de variáveis
+
+Em Python, existem os seguintes tipos de variáveis:
+
+* Inteiro (int)
+* Real (float)
+* String (str)
+* Booleano (bool)
+* Complexo (complex)
+* Lista (list)
+* Tupla (tuple)
+* Dicionário (dict)
+* Conjunto (set)
+
+#### Inteiro (int)
+
+O tipo inteiro é utilizado para representar números inteiros, ou seja, números sem casas decimais. Em Python, não existe limite para o tamanho de um número inteiro.
+
+```python
+inteiro = 10
+```
+
+#### Real (float)
+
+O tipo real é utilizado para representar números reais, ou seja, números com casas decimais. Em Python, não existe limite para o tamanho de um número real.
+
+```python
+
+real = 10.5
+```
+
+#### String (str)
+
+O tipo string é utilizado para representar textos. Em Python, não existe limite para o tamanho de uma string.
+
+```python
+string = "Olá, mundo!"
+```
+
+#### Booleano (bool)
+
+O tipo booleano é utilizado para representar valores lógicos, ou seja, verdadeiro ou falso. Em Python, o valor verdadeiro é representado por True e o valor falso é representado por False.
+
+```python
+booleano = True
+```
+
+#### Complexo (complex)
+
+O tipo complexo é utilizado para representar números complexos, ou seja, números que possuem parte real e parte imaginária. Em Python, não existe limite para o tamanho de um número complexo.
+
+```python
+complexo = 10 + 5j
+```
+
+#### Lista (list)
+
+O tipo lista é utilizado para representar uma coleção de valores. Em Python, uma lista pode conter valores de tipos diferentes.
+
+```python
+lista = [1, 2, 3, 4, 5]
+```
+
+#### Tupla (tuple)
+
+O tipo tupla é utilizado para representar uma coleção de valores. Em Python, uma tupla pode conter valores de tipos diferentes.
+
+```python
+tupla = (1, 2, 3, 4, 5)
+```
+
+#### Dicionário (dict)
+
+O tipo dicionário é utilizado para representar uma coleção de valores. Em Python, um dicionário é composto por pares de chave e valor.
+
+```python
+dicionario = {"nome": "João", "idade": 20}
+```
+
+#### Conjunto (set)
+
+O tipo conjunto é utilizado para representar uma coleção de valores. Em Python, um conjunto não permite valores duplicados.
+
+```python
+conjunto = {1, 2, 3, 4, 5}
+```
+
+## Operadores
+
+Em Python, existem os seguintes operadores:
+
+* Aritméticos
+* Relacionais
+* Lógicos
+* Atribuição
+* Identidade
+* Membro
+* Bitwise
+
+### Aritméticos
+
+Os operadores aritméticos são utilizados para realizar operações aritméticas.
+
+| Operador | Descrição | Exemplo |
+| --- | --- | --- |
+| + | Adição | 10 + 5 |
+| - | Subtração | 10 - 5 |
+| * | Multiplicação | 10 * 5 |
+| / | Divisão | 10 / 5 |
+| % | Módulo | 10 % 5 |
+| // | Divisão inteira | 10 // 5 |
+| ** | Exponenciação | 10 ** 5 |
+
+### Relacionais
+
+Os operadores relacionais são utilizados para realizar comparações entre valores.
+
+| Operador | Descrição | Exemplo |
+| --- | --- | --- |
+| == | Igual | 10 == 5 |
+| != | Diferente | 10 != 5 |
+
+### Lógicos
+
+Os operadores lógicos são utilizados para realizar operações lógicas.
+
+| Operador | Descrição | Exemplo |
+| --- | --- | --- |
+| and | E | 10 and 5 |
+| or | Ou | 10 or 5 |
+| not | Não | not 10 |
+
+### Atribuição
+
+Os operadores de atribuição são utilizados para atribuir valores a variáveis.
+
+| Operador | Descrição | Exemplo |
+| --- | --- | --- |
+| = | Atribuição | x = 10 |
+| += | Atribuição de adição | x += 10 |
+| -= | Atribuição de subtração | x -= 10 |
+| *= | Atribuição de multiplicação | x *= 10 |
+
+### Identidade
+
+Os operadores de identidade são utilizados para verificar se duas variáveis são iguais ou diferentes.
+
+| Operador | Descrição | Exemplo |
+| --- | --- | --- |
+| is | Igual | x is y |
+| is not | Diferente | x is not y |
+
+### Membro
+
+Os operadores de membro são utilizados para verificar se um valor pertence a uma coleção.
+
+| Operador | Descrição | Exemplo |
+| --- | --- | --- |
+| in | Pertence | x in y |
+| not in | Não pertence | x not in y |
+
+### Bitwise
+
+Os operadores bitwise são utilizados para realizar operações bitwise.
+
+| Operador | Descrição | Exemplo |
+| --- | --- | --- |
+| & | AND | 10 & 5 |
+| \| | OR | 10 \| 5 |
+| ^ | XOR | 10 ^ 5 |
+| ~ | NOT | ~10 |
+| << | Deslocamento à esquerda | 10 << 5 |
+| >> | Deslocamento à direita | 10 >> 5 |
+
