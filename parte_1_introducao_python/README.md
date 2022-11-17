@@ -8,8 +8,9 @@ Python é uma linguagem de programação orientada a objetos, ou seja, permite a
 
 Python é uma linguagem de programação funcional, ou seja, permite a utilização de funções de primeira classe, funções anônimas e funções de alta ordem.
 
-1. Variáveis 
-2. Tipos de dados
-3. Condições e Laços de Repetição
-4. Dicionários
-5. Funções
+- 1. [Variáveis](https://github.com/cilab-ufersa/introduction_machine_learning/blob/main/parte_1_introducao_python/variaveis.md) 
+- 2. [Tipos de dados](https://github.com/cilab-ufersa/introduction_machine_learning/blob/main/parte_1_introducao_python/variaveis.md)
+- 3. [Condições](https://github.com/cilab-ufersa/introduction_machine_learning/tree/main/parte_1_introducao_python/condicional_e_lacos)
+- 4. [Laços de Repetição]()
+- 5. [Dicionários]()
+- 6. [Funções]()
