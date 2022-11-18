@@ -13,4 +13,4 @@ Python é uma linguagem de programação funcional, ou seja, permite a utilizaç
 - 3. [Condições](https://github.com/cilab-ufersa/introduction_machine_learning/tree/main/parte_1_introducao_python/condicional_e_lacos)
 - 4. [Laços de Repetição](https://github.com/cilab-ufersa/introduction_machine_learning/tree/develop/parte_1_introducao_python/lacos)
 - 5. [Dicionários](https://github.com/cilab-ufersa/introduction_machine_learning/tree/develop/parte_1_introducao_python/dicionarios)
-- 6. [Funções]()
+- 6. [Funções](https://github.com/cilab-ufersa/introduction_machine_learning/tree/develop/parte_1_introducao_python/funcoes)
