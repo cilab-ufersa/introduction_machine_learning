@@ -15,3 +15,5 @@
   <img src="https://github.com/roscibely/algorithms-and-data-structure/blob/develop/ufersa.jpg" width="700" height="250">
 </div>
 <i>UFERSA - Campus Pau dos Ferros</i>
+
+###### Professora: [Rosana Rego](https://github.com/roscibely)
