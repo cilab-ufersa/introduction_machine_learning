@@ -52,3 +52,5 @@ lastSeenOnline- Quando o rastreador viu este anúncio online pela última vez.
 ---
 
 O objetivo deste projeto é limpar os dados e analisar as listas de carros usados ​​incluídos. Você também se familiarizará com alguns dos benefícios exclusivos que o jupyter notebook oferece aos pandas.
+
+[Acesse o guia do projeto](https://github.com/cilab-ufersa/introduction_machine_learning/blob/main/parte_2_analise_dados/projeto_02/projeto2.ipynb)
