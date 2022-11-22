@@ -4,7 +4,7 @@
 
 Aprendizagem de máquina é uma área de estudo que consiste em fazer com que as máquinas aprendam a partir da experiência. Essa experiência é representada por dados, e a partir desses dados, a máquina aprende a fazer previsões ou classificações.
 
-![Figure](...parte_3_machine_learning\figuras\fig1.png)
+![Figure](https://github.com/cilab-ufersa/introduction_machine_learning/blob/main/parte_3_machine_learning/figuras/fig1.png)
 
 ## Por que aprender sobre aprendizagem de máquina?
 
