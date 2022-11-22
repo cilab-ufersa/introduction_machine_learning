@@ -52,7 +52,7 @@ Nessa parte do curso, veremos uma introdução a machine learning. Os topicos qu
 * Otimização de hiperparâmetros
 * Validação cruzada
 
-
+[Acesse o projeto](https://github.com/cilab-ufersa/introduction_machine_learning/tree/develop/parte_3_machine_learning/projeto_04)
 
 ## Referências Recomendadas
 
