@@ -1,6 +1,6 @@
 ## Variáveis 
 
-Em Python não é necessário declarar o tipo de uma variável, mas o interpretador irá verificar o tipo da variável em tempo de execução. Além disso, o interpretador irá verificar o tipo de uma variável em tempo de execução, ou seja, se uma variável for declarada como inteiro, mas for atribuído um valor do tipo string, o interpretador irá gerar um erro.
+Em Python não é necessário declarar o tipo de uma variável, mas o interpretador irá verificar o tipo da variável em tempo de execução. Ou seja, se uma variável for declarada como inteiro, mas for atribuído um valor do tipo string, o interpretador irá gerar um erro.
 
 ### Declaração de variáveis
 
