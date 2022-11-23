@@ -72,7 +72,7 @@ O tipo lista é utilizado para representar uma coleção de valores. Em Python, 
 ```python
 lista = [1, 2, 3, 4, 5]
 ```
-
+//adicionar a diferença
 #### Tupla (tuple)
 
 O tipo tupla é utilizado para representar uma coleção de valores. Em Python, uma tupla pode conter valores de tipos diferentes.
