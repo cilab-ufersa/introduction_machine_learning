@@ -22,14 +22,14 @@ while contador < 10:
 
 ## for
 
-O for é uma estrutura de controle que permite executar um bloco de código para cada elemento de uma sequência.
+O for é uma estrutura de controle que permite executar um bloco de código N vezes.
 
 ```python
 for elemento in sequencia:
     # bloco de código
 ```
 
-O bloco de código é executado para cada elemento da sequência. Caso contrário, o bloco de código não é executado.
+O bloco de código é executado para cada elemento em sequência. Caso contrário, o bloco de código não é executado.
 
 ```python
 for numero in range(10):
