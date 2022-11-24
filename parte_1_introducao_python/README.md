@@ -10,11 +10,10 @@ Python é uma linguagem de programação funcional, ou seja, permite a utilizaç
 
 
 ---
-###  1. [Variáveis](https://github.com/cilab-ufersa/introduction_machine_learning/blob/main/parte_1_introducao_python/variaveis.md) 
-###  2. [Tipos de dados](https://github.com/cilab-ufersa/introduction_machine_learning/blob/main/parte_1_introducao_python/variaveis.md)
-###  3. [Condições](https://github.com/cilab-ufersa/introduction_machine_learning/tree/main/parte_1_introducao_python/condicional_e_lacos)
-###  4. [Laços de Repetição](https://github.com/cilab-ufersa/introduction_machine_learning/tree/develop/parte_1_introducao_python/lacos)
-###  5. [Dicionários](https://github.com/cilab-ufersa/introduction_machine_learning/tree/develop/parte_1_introducao_python/dicionarios)
-###  6. [Funções](https://github.com/cilab-ufersa/introduction_machine_learning/tree/develop/parte_1_introducao_python/funcoes)
+###  1. [Variáveis e tipos de dados](https://github.com/cilab-ufersa/introduction_machine_learning/blob/main/parte_1_introducao_python/variaveis.md) 
+###  2. [Condições](https://github.com/cilab-ufersa/introduction_machine_learning/tree/main/parte_1_introducao_python/condicional_e_lacos)
+###  3. [Laços de Repetição](https://github.com/cilab-ufersa/introduction_machine_learning/tree/develop/parte_1_introducao_python/lacos)
+###  4. [Dicionários](https://github.com/cilab-ufersa/introduction_machine_learning/tree/develop/parte_1_introducao_python/dicionarios)
+###  5. [Funções](https://github.com/cilab-ufersa/introduction_machine_learning/tree/develop/parte_1_introducao_python/funcoes)
 
-###  7. [Projeto 01 - Fuga das prisões ](https://github.com/cilab-ufersa/introduction_machine_learning/blob/main/parte_1_introducao_python/parte_1_projeto_1/projeto_01.ipynb)
+###  6. [Projeto 01 - Fuga das prisões ](https://github.com/cilab-ufersa/introduction_machine_learning/blob/main/parte_1_introducao_python/parte_1_projeto_1/projeto_01.ipynb)
