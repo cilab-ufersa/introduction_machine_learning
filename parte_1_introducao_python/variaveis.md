@@ -1,9 +1,6 @@
 ## Variáveis 
 
-Em Python não é necessário declarar o tipo de uma variável, mas o interpretador irá verificar o tipo da variável em tempo de execução.
-
-Além disso, o interpretador não faz correções automáticas entre tipos incompatíveis. Para realizar a operação entre tipos não compatíveis, é necessário converter explicitamente o tipo da variável ou variáveis antes da operação.
-
+Em Python não é necessário declarar o tipo de uma variável, mas o interpretador irá verificar o tipo da variável em tempo de execução. Além disso, o interpretador irá verificar o tipo de uma variável em tempo de execução, ou seja, se uma variável for declarada como inteiro, mas for atribuído um valor do tipo string, o interpretador irá gerar um erro.
 
 ### Declaração de variáveis
 
@@ -75,14 +72,30 @@ O tipo lista é utilizado para representar uma coleção de valores. Em Python, 
 ```python
 lista = [1, 2, 3, 4, 5]
 ```
-//adicionar a diferença
+
+Para remover um elemento de uma lista, basta utilizar o método remove().
+
+```python
+lista.remove(3)
+```
+
+Para adicionar um elemento em uma lista, basta utilizar o método append().
+
+```python
+lista.append(6)
+```
+
 #### Tupla (tuple)
 
-O tipo tupla é utilizado para representar uma coleção de valores. Em Python, uma tupla pode conter valores de tipos diferentes.
+Assim como as listas, o tipo tupla é utilizado para representar uma coleção de valores. Porém, as tuplas são imutáveis, ou seja, não é possível adicionar, remover ou alterar valores de uma tupla.
 
 ```python
 tupla = (1, 2, 3, 4, 5)
 ```
+
+Após a criação de uma tupla, não é possível alterar valores.
+
+
 
 #### Dicionário (dict)
 
