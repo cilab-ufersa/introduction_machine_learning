@@ -1,10 +1,11 @@
 # Laços de repetição em Python 
 
-Laços de repetição são estruturas de controle que permitem executar um bloco de código várias vezes.
+Laços de repetição são estruturas de controle que permitem executar um bloco de código várias vezes. Existe dois tipos de laços de repetição em Python: **for** e **while**. 
 
 ## while
 
-O while é uma estrutura de controle que permite executar um bloco de código enquanto uma condição for verdadeira.
+O while é uma estrutura de controle que permite executar um bloco de código enquanto uma condição for verdadeira. Sua sintaaxe é:
+
 
 ```python
 while condicao:
@@ -13,6 +14,8 @@ while condicao:
 
 O bloco de código é executado enquanto a condição for verdadeira. Caso contrário, o bloco de código não é executado.
 
+Exemplo:
+
 ```python
 contador = 0
 while contador < 10:
@@ -20,9 +23,11 @@ while contador < 10:
     contador += 1
 ```
 
+No exemplo acima, o bloco de código é executado enquanto o contador for menor que 10. A cada iteração, o contador é incrementado em 1. 
+
 ## for
 
-O for é uma estrutura de controle que permite executar um bloco de código para cada elemento de uma sequência.
+O for é uma estrutura de controle que permite executar um bloco de código varias vezes. No exemplo a seguir, o laço for é executado  para cada elemento de uma sequência.
 
 ```python
 for elemento in sequencia:
@@ -31,10 +36,14 @@ for elemento in sequencia:
 
 O bloco de código é executado para cada elemento da sequência. Caso contrário, o bloco de código não é executado.
 
+Exemplo:
+
 ```python
 for numero in range(10):
     print(numero)
 ```
+
+No exemplo acima, o bloco de código é executado para cada elemento da sequência. A sequência é gerada pelo método range(). O método range() gera uma sequência de números inteiros. O método range() recebe como parâmetro a quantidade de numeros sequência. Portanto, range(10) gera os números de 0 a 9. Assim, o bloco de código é executado 10 vezes, em que cada iteração a variavel numero recebe um valor diferente, iniciando em 0 e terminando em 9.
 
 ## break
 
