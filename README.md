@@ -16,4 +16,10 @@
 </div>
 <i>UFERSA - Campus Pau dos Ferros</i>
 
-###### Professora: [Rosana Rego](https://github.com/roscibely)
+
+
+
+## Contribuidores 
+<a href="https://github.com/cilab-ufersa/introduction_machine_learning/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=cilab-ufersa/introduction_machine_learning">
+</a>
