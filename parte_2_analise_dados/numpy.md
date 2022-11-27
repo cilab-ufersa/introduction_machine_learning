@@ -117,7 +117,7 @@ Para visualizar o tamanho do array, você pode utilizar o comando abaixo:
 array.size
 ```
 
-## Utilizade de arrays
+## Utilidade de arrays
 
 Arrays são muito utilizados para trabalhar com dados numéricos. Por exemplo, você pode utilizar arrays para representar uma imagem, onde cada pixel é um número que representa a intensidade de cor. Ou você pode utilizar arrays para representar um sinal de áudio, onde cada amostra é um número que representa a intensidade sonora.
 
