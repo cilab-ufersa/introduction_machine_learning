@@ -1,7 +1,7 @@
 # Análise e visualização de dados machine learning 
 
 1. [NumPy](https://github.com/cilab-ufersa/introduction_machine_learning/blob/develop/parte_2_analise_dados/numpy.md)
-2. [Pandas](https://github.com/cilab-ufersa/introduction_machine_learning/tree/develop/parte_2_analise_dados)
+2. [Pandas](https://github.com/cilab-ufersa/introduction_machine_learning/blob/develop/parte_2_analise_dados/pandas.md)
 3. [Matplotlib](https://github.com/cilab-ufersa/introduction_machine_learning/blob/develop/parte_2_analise_dados/matplotlib.md) 
 
 - [Projeto 02](https://github.com/cilab-ufersa/introduction_machine_learning/tree/develop/parte_2_analise_dados/projeto_02)
