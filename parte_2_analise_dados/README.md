@@ -21,6 +21,9 @@ Você pode consultar a documentação do Pandas [aqui](https://pandas.pydata.org
 
 Para realizar a análise exploratória de dados, você pode utilizar a biblioteca Pandas. Essa biblioteca é uma das mais utilizadas para análise de dados em Python.
 
+## import
+Para realizar a importação de qualquer biblioteca no python utilizamos o comando "import", o parâmetro "as" serve para renomearmos o nome da biblioteca e esse parâmetro é opcional. Ele é muito útil caso o nome da biblioteca esteja dando conflito com o nome de alguma variável.
+
 ### Importando a biblioteca Pandas
 
 Para importar a biblioteca Pandas, você pode utilizar o comando abaixo:
