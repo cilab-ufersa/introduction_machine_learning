@@ -9,6 +9,27 @@
 
 ### [Parte 3: Introdução a _machine learning_](https://github.com/cilab-ufersa/introduction_machine_learning/tree/main/parte_3_machine_learning) 🧠
 
+### Links úteis 📚
+
+- [Python](https://www.python.org/)
+- [Jupyter Notebook](https://jupyter.org/): ambiente de desenvolvimento para Python
+- [Google Colab](https://colab.research.google.com/): ambiente de desenvolvimento gratuito e em nuvem para Python. Permite a execução de código em Python, R, SQL e Markdown.
+
+### Sites de _datasets_ 📊
+
+- [Kaggle](https://www.kaggle.com/)
+- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+- [Google Dataset Search](https://datasetsearch.research.google.com/)
+
+### Livros 📚
+
+- [Python para análise de dados](https://www.amazon.com.br/Python-An%C3%A1lise-Dados-Wes-McKinney/dp/8575224028)
+- [Python para ciência de dados](https://www.amazon.com.br/Python-Ci%C3%AAncia-Dados-Wes-McKinney/dp/8575224620)
+- [Python para análise de dados: manipulação, visualização e aprendizado de máquina](https://www.amazon.com.br/Python-An%C3%A1lise-Dados-Manipula%C3%A7%C3%A3o-Aprendizado/dp/8575225032)
+- [Machine Learning: uma abordagem de aprendizado de máquina](https://www.amazon.com.br/Machine-Learning-Aprendizado-Abordagem-Portuguese/dp/8575224736)
+
+
+
 ---
 
 <div>
