@@ -9,11 +9,9 @@
 
 ### [Parte 3: Introdução a _machine learning_](https://github.com/cilab-ufersa/introduction_machine_learning/tree/main/parte_3_machine_learning) 🧠
 
-### Links úteis 📚
+### Visite nossa Wiki 📚
 
-- [Python](https://www.python.org/)
-- [Jupyter Notebook](https://jupyter.org/): ambiente de desenvolvimento para Python
-- [Google Colab](https://colab.research.google.com/): ambiente de desenvolvimento gratuito e em nuvem para Python. Permite a execução de código em Python, R, SQL e Markdown.
+- [Wiki - Primeiros passos com Python](https://github.com/cilab-ufersa/introduction_machine_learning/wiki/Primeiros-passos-com-Python)
 
 ### Sites de _datasets_ 📊
 
