@@ -12,6 +12,7 @@
 ### Visite nossa Wiki 📚
 
 - [Wiki - Primeiros passos com Python](https://github.com/cilab-ufersa/introduction_machine_learning/wiki/Primeiros-passos-com-Python)
+- [Google Colab](https://github.com/cilab-ufersa/introduction_machine_learning/wiki/Google-Colab) - Ambiente para desenvolvimento 
 
 ### Sites de _datasets_ 📊
 
