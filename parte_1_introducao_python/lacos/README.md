@@ -4,7 +4,7 @@ Laços de repetição são estruturas de controle que permitem executar um bloco
 
 ## while
 
-O while é uma estrutura de controle que permite executar um bloco de código enquanto uma condição for verdadeira. Sua sintaaxe é:
+O while é uma estrutura de controle que permite executar um bloco de código enquanto uma condição for verdadeira. Sua sintaxe é:
 
 
 ```python
