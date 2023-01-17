@@ -90,7 +90,7 @@ def recursao(i):
 recursao(0)
 ```
 
-## Exemplo:Resolvendo o Fatorial com recursão
+## Exemplo: Resolvendo o Fatorial com recursão
 
 O fatorial de um número é o produto de todos os inteiros inferiores a e incluindo ele mesmo. O fatorial de 5 é escrito como 5! e é igual a 1 * 2 * 3 * 4 * 5 = 120. Escreva uma função que calcule o fatorial de um número.
 
